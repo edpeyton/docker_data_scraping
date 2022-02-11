@@ -1,11 +1,6 @@
 Scraping data using RSelenium/Docker
 ================
 
-<style>
-body {
-text-align: justify}
-</style>
-
 ## Introduction
 
 The Australian Energy Market Operator (AEMO) regulates the electricity
