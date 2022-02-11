@@ -61,7 +61,7 @@ Once you’ve run this, you should be able to see a new container in the
 Docker Desktop GUI with a randomly generated name (`epic_hypatia` in
 this case).
 
-![](dockercontainer.png)
+![](img/dockercontainer.png)
 
 ------------------------------------------------------------------------
 
